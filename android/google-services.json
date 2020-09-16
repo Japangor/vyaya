@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "980486188158",
+    "firebase_url": "https://shree-kanaiya-travels.firebaseio.com",
+    "project_id": "shree-kanaiya-travels",
+    "storage_bucket": "shree-kanaiya-travels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980486188158:android:6c58f490070d94da077c2f",
+        "android_client_info": {
+          "package_name": "com.japangor.vyaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980486188158-mhnkd3d48abcbnvr2321dqvhat404khb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japangor.vyaya",
+            "certificate_hash": "b754ac2865d430d697ed6a2ca8575ba0607a7df1"
+          }
+        },
+        {
+          "client_id": "980486188158-t1go60pu4oce3p737colr9ps0q5b0l8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yZCwAmRXEJ_VoP6Lb2qhvMy3yFai-iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980486188158-t1go60pu4oce3p737colr9ps0q5b0l8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980486188158:android:fe64df22cd3e1909077c2f",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.ourjek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980486188158-3j8acjophrkr2ttaj2l0l9sbcjb4fc7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ourdevelops.ourjek",
+            "certificate_hash": "2d6cfefe3ec8d00db79ea148d234839633f5c147"
+          }
+        },
+        {
+          "client_id": "980486188158-t1go60pu4oce3p737colr9ps0q5b0l8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yZCwAmRXEJ_VoP6Lb2qhvMy3yFai-iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980486188158-t1go60pu4oce3p737colr9ps0q5b0l8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980486188158:android:6eaf56f200452794077c2f",
+        "android_client_info": {
+          "package_name": "com.shreekanaiyatravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980486188158-gp9he6hd92gusm4818ne2dc7d7b4bgmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreekanaiyatravels",
+            "certificate_hash": "2d6cfefe3ec8d00db79ea148d234839633f5c147"
+          }
+        },
+        {
+          "client_id": "980486188158-t1go60pu4oce3p737colr9ps0q5b0l8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yZCwAmRXEJ_VoP6Lb2qhvMy3yFai-iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980486188158-t1go60pu4oce3p737colr9ps0q5b0l8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
